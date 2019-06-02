@@ -22,7 +22,7 @@
 <v t="leo.20180702145458.1"><vh>@button stop http.server</vh></v>
 </v>
 <v t="leo.20180703102027.1"><vh>@edit README.md</vh></v>
-<v t="amd.20160714225245.2" a="E"><vh>about cmsimfly</vh>
+<v t="amd.20160714225245.2"><vh>about cmsimfly</vh>
 <v t="amd.20160714230137.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20160714230155.1"><vh>@edit LICENSE</vh></v>
 <v t="amd.20160715000709.1" a="E"><vh>註解</vh>
@@ -839,7 +839,7 @@ def set_admin_css():
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;2018 Fall 分組網站&lt;/title&gt; \
+&lt;title&gt;2019 協同產品設計實習 40623244 個人網站&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="/static/cmsimply.css"&gt;
 ''' + syntaxhighlight()
 
@@ -1062,7 +1062,7 @@ a.xhfbfile:hover{
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;2018 Fall 分組網站&lt;/title&gt; \
+&lt;title&gt;2019 協同產品設計實習 40623244 個人網站&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="/static/cmsimply.css"&gt;
 ''' + syntaxhighlight()
 
@@ -2387,7 +2387,7 @@ def get_page2(heading, head, edit):
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;2018 Fall 分組網站&lt;/title&gt; \
+&lt;title&gt;2019 協同產品設計實習 40623244 個人網站&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="./../static/cmsimply.css"&gt;
 ''' + syntaxhighlight2()
 
