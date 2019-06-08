@@ -24,57 +24,43 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
-</v>
-</v>
-<v t="leo.20181015110834.1" a="E"><vh>W1</vh>
-<v t="leo.20181015110834.2" a="E"><vh>week1</vh>
+<v t="leo.20181015110834.1" a="E"><vh>W10</vh>
+<v t="leo.20181015110834.2" a="E"><vh>week10</vh>
 <v t="leo.20181015110834.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112145.1" a="E"><vh>W2</vh>
-<v t="leo.20181015112145.2" a="E"><vh>week2</vh>
+<v t="leo.20181015112145.1" a="E"><vh>W11</vh>
+<v t="leo.20181015112145.2" a="E"><vh>week11</vh>
 <v t="leo.20181015112145.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112156.1" a="E"><vh>W3</vh>
-<v t="leo.20181015112156.2" a="E"><vh>week3</vh>
+<v t="leo.20181015112156.1" a="E"><vh>W12</vh>
+<v t="leo.20181015112156.2" a="E"><vh>week12</vh>
 <v t="leo.20181015112156.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112158.1" a="E"><vh>W4</vh>
-<v t="leo.20181015112158.2" a="E"><vh>wee4</vh>
+<v t="leo.20181015112158.1" a="E"><vh>W13</vh>
+<v t="leo.20181015112158.2" a="E"><vh>wee13</vh>
 <v t="leo.20181015112158.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112200.1" a="E"><vh>W5</vh>
-<v t="leo.20181015112200.2" a="E"><vh>week5</vh>
+<v t="leo.20181015112200.1" a="E"><vh>W14</vh>
+<v t="leo.20181015112200.2" a="E"><vh>week14</vh>
 <v t="leo.20181015112200.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112217.1" a="E"><vh>W6</vh>
-<v t="leo.20181015112217.2" a="E"><vh>week6</vh>
+<v t="leo.20181015112217.1" a="E"><vh>W15</vh>
+<v t="leo.20181015112217.2" a="E"><vh>week15</vh>
 <v t="leo.20181015112217.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112219.1"><vh>W7</vh>
-<v t="leo.20181015112219.2" a="E"><vh>week7</vh>
+<v t="leo.20181015112219.1" a="E"><vh>W16</vh>
+<v t="leo.20181015112219.2" a="E"><vh>week16</vh>
 <v t="leo.20181015112219.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20181015112234.1" a="E"><vh>W8</vh>
-<v t="leo.20181015112234.2" a="E"><vh>week8</vh>
+<v t="leo.20181015112234.1" a="E"><vh>W17</vh>
+<v t="leo.20181015112234.2" a="E"><vh>week17</vh>
 <v t="leo.20181015112234.3"><vh>內容</vh></v>
 </v>
 </v>
@@ -164,106 +150,12 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 40623244簡報
+<t tx="leo.20180827201621.10">## 2019 協同產品設計實習 40623244 個人簡報
 
 ### 虎科大機械設計工程系
 
-[2018 Fall 40623244網誌](./../blog/index.html)</t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+[2019 Spring 40623244網站](./../content/index.html)
 
-
-						
-</t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180827201621.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -279,7 +171,7 @@ make.start()
 <t tx="leo.20180827201621.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2018 Fall 分組網際簡報
+2019 協同產品設計實習 40623244 個人簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -375,8 +267,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015110834.3"># Week1
-心得:原本忘記要如何使用github，但再重新接觸，加上聽老師解說之後，明白只是沿用一年級的時候所學過的東西，所以我想應該可以再次適應，但是這學期還多學了一個從來沒接觸過的軟件，名為"Onshape"，聽過老師稍微的介紹，才明白這是一套繪圖軟件的軟件，我想應該可很快的學會。</t>
+<t tx="leo.20181015110834.3"># Week10
+
+研究實習任務三(尚未分配到明確的工作)
+</t>
 <t tx="leo.20181015112145.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -393,8 +287,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015112145.3"># Week2
-心得:第二週學習如何管理期中作業倉儲的網站內容以及投影片內容，每週必須放上Onshape Lesson的進度，一步步慢慢透過自學的方式，學會如何使用Onshape，這樣的方式也讓我們學會，自主學習很重要。</t>
+<t tx="leo.20181015112145.3"># Week11
+
+利用老師提供的資料，和組員一起模擬foosball</t>
 <t tx="leo.20181015112156.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -411,8 +306,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015112156.3"># Week3 
-中秋節放假</t>
+<t tx="leo.20181015112156.3"># Week12
+
+分配到的工作是送球機構的設計與模擬，和組員一起討論</t>
 <t tx="leo.20181015112158.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -429,8 +325,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015112158.3"># Week4
-心得:第四週開始學習Onshape，開始自己熟悉一下它的介面，發現和其他的軟體(例如:inventor等)有些許相似。我從簡單的繪圖開始，到後面使用掃掠以及斷面混成，心想這些功能和其他繪製3D的軟體相似，可能多學會一樣工具對自己的未來是有利的。</t>
+<t tx="leo.20181015112158.3"># Week13
+
+組員用Onshape畫出初步的機構，再用V-rep進行模擬</t>
 <t tx="leo.20181015112200.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -447,8 +344,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015112200.3"># Week5
-心得:進入Onshape第二週，必須了解到自己的設計意圖是什麼，還有如何再草圖中設定尺寸和圖形約束，並且要正確和精準，否則可能無法3D建模。</t>
+<t tx="leo.20181015112200.3"># Week14
+
+協助組員說明其送球機構之設計，以文字及圖片來呈現</t>
 <t tx="leo.20181015112217.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -465,10 +363,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181015112217.3"># Week6
-學習Onshape
-Lesson week3:建模
-Lesson week4:裝配</t>
+<t tx="leo.20181015112217.3"># Week15
+
+將送球機構模擬步驟以文字說明來呈現</t>
 <t tx="leo.20181015112219.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -485,8 +382,12 @@ Lesson week4:裝配</t>
 
 						
 </t>
-<t tx="leo.20181015112219.3"># Week7
-由於github突然故障，所以老師找出其他方法解決並探討，老師說明之後，才知道github是因為在更換伺服器所以才暫時性無法使用，若不是這個問題的話可能之後要我們回去使用Fossli SCM 。</t>
+<t tx="leo.20181015112219.3"># Week16
+
+整理自己的倉儲
+
+將送球機構模擬步驟說明放在自己的網站上
+</t>
 <t tx="leo.20181015112234.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -503,10 +404,9 @@ Lesson week4:裝配</t>
 
 						
 </t>
-<t tx="leo.20181015112234.3"># Week8
-學習Onshape:
-w6:介紹產品設計 - 組別設計產品
-w7:介紹產品設計 - 疊合設計
-w8:產品設計 - 進階的裝配和其餘的設計過程</t>
+<t tx="leo.20181015112234.3"># Week17
+
+
+</t>
 </tnodes>
 </leo_file>
