@@ -154,9 +154,8 @@ vertical: body pane on the botton</t>
 
 ### 虎科大機械設計工程系
 
-[2019 Spring 40623244網站](./../content/index.html)
-
-</t>
+[網站](./../content/index.html)、
+[倉儲](https://github.com/40623244/2019-project)</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -270,7 +269,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20181015110834.3"># Week10
 
 研究實習任務三(尚未分配到明確的工作)
-</t>
+
+[實習任務三](http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm)</t>
 <t tx="leo.20181015112145.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -289,7 +289,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20181015112145.3"># Week11
 
-利用老師提供的資料，和組員一起模擬foosball</t>
+利用老師提供的資料，和組員一起模擬foosball
+
+[相關影片](https://youtu.be/QekgEAWPOTE)</t>
 <t tx="leo.20181015112156.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -308,7 +310,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20181015112156.3"># Week12
 
-分配到的工作是送球機構的設計與模擬，和組員一起討論</t>
+分配到的工作是送球機構的設計與模擬，和組員一起討論
+
+[初步構想](https://youtu.be/mtv6j7pa7xM)</t>
 <t tx="leo.20181015112158.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -327,7 +331,13 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20181015112158.3"># Week13
 
-組員用Onshape畫出初步的機構，再用V-rep進行模擬</t>
+組員用Onshape畫出初步的機構，
+再用V-rep進行模擬
+
+模擬步驟：
+
+[第一步驟](https://youtu.be/x51b3j6cYKs)、
+[第二步驟](https://youtu.be/nSbpWyDZdTA)</t>
 <t tx="leo.20181015112200.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -346,7 +356,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20181015112200.3"># Week14
 
-協助組員說明其送球機構之設計，以文字及圖片來呈現</t>
+協助組員說明其送球機構之設計，以文字及圖片來呈現
+
+[相關連結](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5/commit/2a4bd039a23624c30ad8799a40b337284c79c0d0)</t>
 <t tx="leo.20181015112217.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -365,7 +377,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20181015112217.3"># Week15
 
-將送球機構模擬步驟以文字說明來呈現</t>
+將送球機構模擬步驟以文字說明來呈現
+
+[相關連結](https://40623244.github.io/2019-project/content/Simulation%20step.html)</t>
 <t tx="leo.20181015112219.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -384,10 +398,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20181015112219.3"># Week16
 
-整理自己的倉儲
+整理自己的倉儲，並將送球機構模擬步驟說明放在自己的網站上
 
-將送球機構模擬步驟說明放在自己的網站上
-</t>
+[相關連結](https://40623244.github.io/2019-project/content/Simulation%20step.html)</t>
 <t tx="leo.20181015112234.1">&lt;section&gt;
 @others
 &lt;/section&gt;
